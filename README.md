@@ -6,12 +6,8 @@ Full-stack projects using C++, C#, and Python
 Innovative software solutions and open-source projects
 🙋 I’m looking for help with:
 Improving architecture patterns and scaling backend systems
-🌱 I’m currently learning:
-Advanced system design, cross-platform app development
 💬 Ask me about:
 Anything C++, C#, Python, or full-stack development related
-⚡ Fun fact:
-Started coding for fun — now I can’t stop
 
 # 💫 About Me:
 🛠️ I’m currently working on:<br>Full-stack projects using C++, C#, and Python<br>🤝 I’m looking to collaborate on:<br>Innovative software solutions and open-source projects<br>🙋 I’m looking for help with:<br>Improving architecture patterns and scaling backend systems<br>🌱 I’m currently learning:<br>Advanced system design, cross-platform app development<br>💬 Ask me about:<br>Anything C++, C#, Python, or full-stack development related<br>⚡ Fun fact:<br>Started coding for fun — now I can’t stop 
